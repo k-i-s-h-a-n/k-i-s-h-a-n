@@ -1,28 +1,168 @@
-<h1 align="center">Hi 👋, I'm Kishan kumar</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<div align="center">
 
-<a href= "https://kishan.codexcrackers.in/"> Kishan's Portfolio</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-i-s-h-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="k-i-s-h-a-n" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kishan%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20India%20🇮🇳&descAlignY=55&descSize=20" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-i-s-h-a-n" alt="k-i-s-h-a-n" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+matter+💡;Python+%7C+Django+%7C+JavaScript+%7C+React;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/kkcodr" target="blank"><img src="https://img.shields.io/twitter/follow/kkcodr?logo=twitter&style=for-the-badge" alt="kkcodr" /></a> </p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kkcodr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkcodr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kishan-kumar-a72b36170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19594780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19594780" height="30" width="40" /></a>
-<a href="https://instagram.com/kishan_kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan_kumarr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kishfan86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kishfan86" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kishfan86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishfan86" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=k-i-s-h-a-n&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/kkcodr">
+    <img src="https://img.shields.io/twitter/follow/kkcodr?logo=twitter&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="Twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-i-s-h-a-n&show_icons=true&locale=en&layout=compact" alt="k-i-s-h-a-n" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-i-s-h-a-n&show_icons=true&locale=en" alt="k-i-s-h-a-n" /></p>
+<!-- About Me Section -->
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-i-s-h-a-n&" alt="k-i-s-h-a-n" /></p>
+### 🧠 About Me
+
+```python
+class KishanKumar:
+    name       = "Kishan Kumar"
+    role       = "Fullstack Developer"
+    location   = "India 🇮🇳"
+    portfolio  = "https://kishan.codexcrackers.in"
+    passion    = ["Clean Code", "Open Source", "Problem Solving"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome 🚀")
+
+me = KishanKumar()
+me.say_hi()
+```
+
+- 🔭 Currently building cool stuff with **Django + JavaScript**
+- 🌱 Exploring **OpenCV** & **Computer Vision**
+- 🤝 Open to collaborating on **interesting projects**
+- ⚡ Fun fact: I think in **loops and functions** 😄
+- 📫 Reach me at **[kishan.codexcrackers.in](https://kishan.codexcrackers.in)**
+
+<br clear="right"/>
+
+---
+
+<!-- Trophy Section -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=k-i-s-h-a-n&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</a>
+
+</div>
+
+---
+
+<!-- Tech Stack Section -->
+<div align="center">
+
+### ⚡ Tech Stack & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+### 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k-i-s-h-a-n&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e879f9&area=true&hide_border=true)](https://github.com/k-i-s-h-a-n)
+
+</div>
+
+---
+
+<!-- Stats Section -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=k-i-s-h-a-n&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=e879f9&text_color=ffffff&count_private=true" height="170" alt="Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-i-s-h-a-n&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="170" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=k-i-s-h-a-n&theme=radical&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=e879f9&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://twitter.com/kkcodr">
+  <img src="https://img.shields.io/badge/Twitter-0ea5e9?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kishan-kumar-a72b36170/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/kishan_kumarr">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/19594780">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/@kishfan86">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/kishfan86">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://kishan.codexcrackers.in">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- Footer Banner -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
+
+**⭐️ If you like my projects, give them a star! It means a lot 🙏**
+
+</div>
